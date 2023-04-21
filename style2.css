@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    color:white;
+    background-image:url("cool.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.form1{align-items: center ;
+    background-color:blue; opacity:90%;
+  width: 30%;
+  border: 5px dashed gold;
+  padding: 12px;
+  margin: 50px;
+  border-radius: 29px;
+}
+input{
+    border-radius: 15px;
+}
+.label1{
+    color:chartreuse;
+}
+.label3{
+    color: cyan;
+}
+.label2{
+    color:orange;
+}
+.label4{
+    color: red;
+}
+
+.address1{color: pink;}
+span{
+    color:magenta;
+    text-transform: capitalize;
+}
+legend{
+    font-size:x-large;
+    color:black;
+    background-color:lawngreen;
+    background-position: center;
+    border-radius: 9px;
+}
+fieldset{
+    align-items: center;
+    background-color:black;
+    border-radius: 13px;
+    
+}
+input{
+    font-size: large;
+}
